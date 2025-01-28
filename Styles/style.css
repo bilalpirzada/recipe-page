@@ -24,7 +24,6 @@ body{
 main{
   background: var(--White);
   max-width: 1000px;
-  min-width: 375px;
   border-radius: 30px;
   padding: 40px 40px;
 }
@@ -168,7 +167,9 @@ hr{
   body{
     padding: 5px 5px;
    }
-   
+   p, li{
+    font-size: 1rem;
+  }
 }
 
 
